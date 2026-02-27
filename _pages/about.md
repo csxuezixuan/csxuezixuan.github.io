@@ -44,8 +44,8 @@ In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP�
 Professional Services
 ======
 Journal Reviewer
--IEEE Signal Processing Letters (SPL)
--Information Fusion
+- IEEE Signal Processing Letters (SPL)
+- Information Fusion
 <!--
 Under Review
 ======
