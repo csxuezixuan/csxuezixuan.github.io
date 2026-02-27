@@ -16,6 +16,11 @@ This is Pengjie Shen’s homepage. I am a **Ph.D. student** in **Computer Sc
 
 Publications
 ======
+- **Pengjie Shen**, Shulin He, Xueliang Zhang, Zhong-Qiu Wang
+*LExTra: Folded Prompt and Split-Role Attention for Target Speaker Extraction*.
+In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2026).
+[DOI]([https://arxiv.org/abs/2506.12345](https://arxiv.org/abs/2505.05114)) ·
+
 - **Pengjie Shen**, Kangrui Chen, Shulin He, Pengru Chen, Shuqi Yuan, He Kong, Xueliang Zhang, Zhong-Qiu Wang
 *Listen to Extract: Onset-Prompted Target Speaker Extraction*.
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2025.
