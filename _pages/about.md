@@ -41,7 +41,11 @@ In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP�
  In _Proceedings of the Thirty‑Third International Joint Conference on Artificial Intelligence (IJCAI 2024)_
 [DOI]([https://ieeexplore.ieee.org/abstract/document/10445847](https://www.ijcai.org/proceedings/2024/0713.pdf)) ·
 
-
+Professional Services
+======
+Journal Reviewer
+-IEEE Signal Processing Letters (SPL)
+-Information Fusion
 <!--
 Under Review
 ======
