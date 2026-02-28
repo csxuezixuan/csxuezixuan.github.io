@@ -20,6 +20,9 @@ Publications
 *LExTra: Folded Prompt and Split-Role Attention for Target Speaker Extraction*.
 In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2026).
 
+- Tongtao Ling, Shulin He, **Pengjie Shen**, Zhong-Qiu Wang
+*MC-LExt: Multi-Channel Target Speaker Extraction with Onset-Prompted Speaker Conditioning Mechanism*.
+In Proc. IEEE Int. Conf. Acoustics, Speech and Signal Processing (ICASSP 2026).
 
 - **Pengjie Shen**, Kangrui Chen, Shulin He, Pengru Chen, Shuqi Yuan, He Kong, Xueliang Zhang, Zhong-Qiu Wang
 *Listen to Extract: Onset-Prompted Target Speaker Extraction*.
