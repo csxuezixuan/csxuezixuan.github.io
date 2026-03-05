@@ -22,7 +22,7 @@ repository               : "csxuezixuan/csxuezixuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "photo.jpg"
   name             : "Zixuan Xue"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student"
